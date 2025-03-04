@@ -4,7 +4,7 @@
 
 💜 **Inspired by PhonePe | Secure & Seamless Bill Payments**  
 
-Hello, I'm [Your Name], a Flutter developer passionate about creating seamless digital payment experiences. **Bharath Bill Payment System** is a full-fledged payment platform replicating **PhonePe’s UI/UX**, providing users with a smooth and efficient way to handle bill payments.  
+Hello, I'm Vivek, a Flutter developer passionate about creating seamless digital payment experiences. **Bharath Bill Payment System** is a full-fledged payment platform replicating **PhonePe’s UI/UX**, providing users with a smooth and efficient way to handle bill payments.  
 
 ## 🏗️ Features  
 
