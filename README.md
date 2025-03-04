@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋  
+
+### 🚀 I am working on a project named **Bharath Bill Payment System**  
 
 # 📲 Bharath Bill Payment System  
 
@@ -35,11 +37,11 @@ This project is a complete **Flutter-based UI** that covers all the designs avai
 
 ## 🔥 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek-1206&show_icons=true&theme=radical)  
 
 ### 🚀 Most Used Languages  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-1206&layout=compact&theme=radical)  
 
 ## 👨‍💻 Tools Used  
 
@@ -56,4 +58,5 @@ This project is a complete **Flutter-based UI** that covers all the designs avai
 ---
 
 🚀 **Let's build seamless payment experiences together!**  
+
 
