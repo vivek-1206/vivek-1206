@@ -50,6 +50,14 @@ This project is a complete **Flutter-based UI** that covers all the designs avai
 🔹 Google Fonts  
 🔹 Material UI  
 
+## 📲 Installation
+
+To get started with the *Treasure Hunt* project, follow these steps:
+
+1. *Clone the repository*:
+   ```bash
+   git clone https://github.com/vivek-1206/bppsapp.git
+
 ## 👋🏻 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vivekbollam12/)  
