@@ -29,6 +29,13 @@ I'm a **Flutter Developer & UI/UX Designer** passionate about creating **engagin
 - [Car Rental App](https://github.com/vivek-1206/flutter_project)
 - [BPPS App](https://github.com/vivek-1206/bppsapp)
 
+<h2>🎓 Education</h2>
+<ul>
+  <li>🎓 <strong>Bachelors Of Technology</strong> – Gokaraju Rangaraju Institute of Engineering and Technology</li>
+  <li>🏫 <strong>Intermediate (MPC)</strong> – SR Junior College</li>
+  <li>🏫 <strong>Schooling</strong> – Srinivasa Ramanujan High School</li>
+</ul>
+
 ### 🚀 I am currently working on a project named **Bharath Bill Payment System**  
 
 # 📲 Bharath Bill Payment System  
