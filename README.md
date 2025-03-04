@@ -31,7 +31,7 @@ I'm a **Flutter Developer & UI/UX Designer** passionate about creating **engagin
 
 <h2>🎓 Education</h2>
 <ul>
-  <li>🎓 <strong>Bachelors Of Technology</strong> – Gokaraju Rangaraju Institute of Engineering and Technology</li>
+  <li>🎓 <strong>B.Tech Mechanical Engineering</strong> – Gokaraju Rangaraju Institute of Engineering and Technology</li>
   <li>🏫 <strong>Intermediate (MPC)</strong> – SR Junior College</li>
   <li>🏫 <strong>Schooling</strong> – Srinivasa Ramanujan High School</li>
 </ul>
