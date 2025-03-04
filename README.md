@@ -1,6 +1,6 @@
 ## Hi there 👋  , I'm Bollam Vivek
 
-# 🚀 Vivek Bollam – Flutter Designer & Mobile Developer  
+# 🚀 Flutter Designer & Mobile Developer  
 
 ## Crafting Seamless & Intuitive Mobile Experiences  
 
@@ -9,7 +9,7 @@ I'm a **Flutter Developer & UI/UX Designer** passionate about creating **engagin
 ## 💡 What I Do  
 - 🔹 **Mobile App Development** – Scalable & high-performance apps using Flutter  
 - 🔹 **UI/UX Design** – Intuitive, pixel-perfect UI inspired by top apps  
-- 🔹 **State Management** – Provider  
+- 🔹 **State Management** – Ensuring smooth performance with Provider  
 - 🔹 **Backend Integration** – Firebase, REST APIs, and third-party services  
 - 🔹 **Payment & Authentication** – Secure payment gateways & OTP authentication  
 
@@ -50,7 +50,7 @@ Hello, I'm Vivek, a Flutter developer passionate about creating seamless digital
 
 This project is a complete **Flutter-based UI** that covers all the designs available in PhonePe, ensuring an easy-to-use and engaging payment experience.  
 
-## 🛠️ Tech Stack  
+## 🛠️ Tools Used in this Project  
 
 - **Framework**: Flutter  
 - **Language**: Dart  
