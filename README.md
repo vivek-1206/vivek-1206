@@ -52,7 +52,7 @@ This project is a complete **Flutter-based UI** that covers all the designs avai
 
 ## 📲 Installation
 
-To get started with the *Treasure Hunt* project, follow these steps:
+To get started with the *Bharath Bill Payment System* project, follow these steps:
 
 1. *Clone the repository*:
    ```bash
