@@ -1,104 +1,98 @@
-## Hi there 👋  , I'm Bollam Vivek
+<!DOCTYPE html>
 
-# 🚀 Flutter Designer & Mobile Developer  
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CI/CD Node.js DevOps Project</title>
+</head>
+<body>
 
-## Crafting Seamless & Intuitive Mobile Experiences  
+<h1>📲 CI/CD Pipeline for Node.js App</h1>
 
-I'm a **Flutter Developer & UI/UX Designer** passionate about creating **engaging, user-friendly, and high-performance mobile applications**. With expertise in **Flutter, Dart, and Firebase**, I specialize in building **cross-platform apps** that deliver smooth UI/UX and efficient functionality.  
+<p>💜 <strong>Automated Build, Test, and Deployment to Kubernetes</strong></p>
 
-## 💡 What I Do  
-- 🔹 **Mobile App Development** – Scalable & high-performance apps using Flutter  
-- 🔹 **UI/UX Design** – Intuitive, pixel-perfect UI inspired by top apps  
-- 🔹 **State Management** – Ensuring smooth performance with Provider  
-- 🔹 **Backend Integration** – Firebase, REST APIs, and third-party services  
-- 🔹 **Payment & Authentication** – Secure payment gateways & OTP authentication  
+<p>Hello, I'm Vivek, a DevOps enthusiast passionate about <strong>automation, cloud, and scalable deployments</strong>. This project demonstrates a <strong>full CI/CD pipeline</strong> for a Node.js REST API with Dockerization and Kubernetes deployment.</p>
 
-## 🛠️ Tech Stack  
-📌 **Languages**: Dart  
-📌 **Frameworks**: Flutter  
-📌 **Backend**: Firebase, Firestore, REST APIs  
-📌 **Design Tools**: Figma 
-📌 **Version Control**: Git, GitHub  
+<hr>
 
-## 🚀 Projects  
-- **Bharath Bill Payment System** – Full-fledged payment UI inspired by PhonePe  
-- **E-commerce App** – Flutter-based shopping app with Firebase backend  
-- **Car Rental App** – Smooth UI with real-time car booking app
-
- ### Checkout My Projects 
-- [Car Rental App](https://github.com/vivek-1206/flutter_project)
-- [BPPS App](https://github.com/vivek-1206/bppsapp)
-
-<h2>🎓 Education</h2>
+<h2>🏗️ Features</h2>
 <ul>
-  <li>🎓 <strong>B.Tech Mechanical Engineering</strong> – Gokaraju Rangaraju Institute of Engineering and Technology</li>
-  <li>🏫 <strong>Intermediate (MPC)</strong> – SR Junior College</li>
-  <li>🏫 <strong>Schooling</strong> – Srinivasa Ramanujan High School</li>
+  <li>✅ Automated build & test using <strong>GitHub Actions</strong></li>
+  <li>✅ Dockerized application for portability</li>
+  <li>✅ Kubernetes deployment using <strong>Helm charts</strong></li>
+  <li>✅ CI/CD notifications on <strong>Slack</strong></li>
+  <li>✅ Scalable & resilient cloud infrastructure</li>
 </ul>
 
-### 🚀 I am currently working on a project named **Bharath Bill Payment System**  
+<hr>
 
-# 📲 Bharath Bill Payment System  
+<h2>📚 Project Overview</h2>
+<p>This project showcases how to:</p>
+<ul>
+  <li>Build a <strong>CI/CD pipeline</strong> for a Node.js app</li>
+  <li>Automate deployments using <strong>GitHub Actions</strong></li>
+  <li>Containerize apps with <strong>Docker</strong></li>
+  <li>Orchestrate workloads on <strong>Kubernetes</strong></li>
+  <li>Monitor infrastructure using <strong>Prometheus & Grafana</strong></li>
+</ul>
 
-💜 **Inspired by PhonePe | Secure & Seamless Bill Payments**  
+<hr>
 
-Hello, I'm Vivek, a Flutter developer passionate about creating seamless digital payment experiences. **Bharath Bill Payment System** is a full-fledged payment platform replicating **PhonePe’s UI/UX**, providing users with a smooth and efficient way to handle bill payments.  
+<h2>🛠️ Tools Used in this Project</h2>
+<ul>
+  <li>CI/CD: GitHub Actions</li>
+  <li>Containers: Docker, Kubernetes</li>
+  <li>IaC: Terraform, Helm</li>
+  <li>Cloud: AWS (EKS, EC2, S3)</li>
+  <li>Monitoring: Prometheus, Grafana</li>
+</ul>
 
-## 🏗️ Features  
+<hr>
 
-✅ FASTag Recharge  
-✅ Credit Card Bill Payments  
-✅ Mobile & DTH Recharge  
-✅ Utility Bill Payments  
-✅ Secure Transactions  
-✅ Intuitive UI/UX  
+<h2>📲 Installation</h2>
+<ol>
+  <li>Clone the repository:
+    <pre><code>git clone https://github.com/vivek-1206/devops-cicd-nodejs.git
+cd devops-cicd-nodejs</code></pre>
+  </li>
+  <li>Build Docker image:
+    <pre><code>docker build -t nodejs-app .</code></pre>
+  </li>
+  <li>Run Docker container locally:
+    <pre><code>docker run -p 3000:3000 nodejs-app</code></pre>
+  </li>
+  <li>Deploy to Kubernetes:
+    <pre><code>kubectl apply -f k8s/deployment.yaml
+kubectl apply -f k8s/service.yaml</code></pre>
+  </li>
+</ol>
 
-## 📚 Project Overview  
+<hr>
 
-This project is a complete **Flutter-based UI** that covers all the designs available in PhonePe, ensuring an easy-to-use and engaging payment experience.  
+<h2>👨‍💻 Tools Icons</h2>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40">
+  <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40">
+</p>
 
-## 🛠️ Tools Used in this Project  
+<hr>
 
-- **Framework**: Flutter  
-- **Language**: Dart  
-- **Backend**: Firebase  
-- **Authentication**:Firebase OTP   
-- **Database**: Firestore  
+<h2>👋🏻 Connect with Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/vivekbollam12/" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/vivek-1206/" target="_blank">GitHub</a>
+</p>
 
-## 🔥 GitHub Stats  
+<p>🚀 <strong>Let’s automate deployments & scale applications together!</strong></p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek-1206&show_icons=true&theme=radical)  
+</body>
+</html>
 
-### 🚀 Most Used Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-1206&layout=compact&theme=radical)  
-
-## 👨‍💻 Tools Used  
-
-🔹 Flutter  
-🔹 Firebase  
-🔹 Google Fonts  
-🔹 Material UI  
-
-## 📲 Installation
-
-To get started with the *Bharath Bill Payment System* project, follow these steps:
-
-1. *Clone the repository*:
-   ```bash
-   git clone https://github.com/vivek-1206/bppsapp.git
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-## 👋🏻 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vivekbollam12/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/vivek-1206/)  
-
-
----
-
-🚀 **Let's build seamless payment experiences together!**  
 
 
